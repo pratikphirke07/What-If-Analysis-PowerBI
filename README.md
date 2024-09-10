@@ -28,6 +28,12 @@ This analysis helps predict demand and maintain supply, keeping your business ah
 ## Example:
 If office supplies demand increases by 15%, the sales for 2019 would adjust accordingly. This same analysis can be applied to Furniture and Technology, demonstrating how Power BI’s **What-If** feature can help you forecast and plan strategically.
 
+## Video:
+
+https://github.com/user-attachments/assets/1dd90754-6384-4e72-8237-c2548e13aeb0
+
+
+
 ---
 This project demonstrates the power of predictive analytics, using simple tools to make business decisions that can have a real impact on performance and supply chain efficiency.
 
