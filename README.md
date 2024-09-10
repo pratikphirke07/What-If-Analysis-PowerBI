@@ -1,5 +1,3 @@
-# What-If-Analysis-PowerBI
-
 # Power BI What-If Analysis: Forecasting Demand and Supply
 
 Have you ever wondered how to accurately predict your business's future performance and what adjustments are needed to meet demand?
